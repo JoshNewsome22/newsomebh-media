@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated": "2026-11-16",
+  "inboxName": "NBH Recordings – Inbox",
+  "inbox": "https://drive.google.com/drive/folders/1lCaMvB0NZK0xd0Qan9s-iCOTdv9FmP0_",
+  "scripts": [
+    {
+      "id": "setup-test-1",
+      "series": "Studio",
+      "episode": "Setup test",
+      "title": "Teleprompter and microphone test",
+      "due": "2026-11-17",
+      "record": "audio",
+      "file": "setup-test_owner-voice",
+      "status": "to-record",
+      "notes": "A 30-second test so the studio can check your sound before the first real recording. Read it at your normal pace.",
+      "segments": [
+        {
+          "seg": "Test",
+          "title": "Setup test",
+          "say": "Hi, I'm Joshua Newsome, a Board Certified Behavior Analyst with Newsome Behavioral Health. This is a short test of the teleprompter and the microphone. I'm reading at my normal pace, in the room where I'll record. One, two, three, four, five. Thank you for watching, and I'll see you in the next video."
+        }
+      ]
+    }
+  ]
+}
