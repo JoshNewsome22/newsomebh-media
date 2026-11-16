@@ -21,6 +21,52 @@
           "say": "Hi, I'm Joshua Newsome, a Board Certified Behavior Analyst with Newsome Behavioral Health. This is a short test of the teleprompter and the microphone. I'm reading at my normal pace, in the room where I'll record. One, two, three, four, five. Thank you for watching, and I'll see you in the next video."
         }
       ]
+    },
+    {
+      "id": "parents-02-owner",
+      "series": "Parents & Caregivers",
+      "episode": "Episode 2",
+      "title": "First-Then, Step by Step: your opening and closing",
+      "due": "2026-11-20",
+      "record": "audio",
+      "file": "parents-02_owner-voice",
+      "status": "to-record",
+      "notes": "Draft for practice: the script is waiting for your approval. Record the final take once you approve it. Record each line 2-3 times, with a few seconds of silence before and after. Say only these words (tell the studio if you want to change any).",
+      "segments": [
+        {
+          "seg": "Opening",
+          "title": "Opening (about 17 s)",
+          "say": "\"First shoes, then the park.\" It sounds simple, and it's easy to get wrong. I'm Joshua Newsome, a Board Certified Behavior Analyst. I wrote this video to show you five steps that make first-then work. From here, an AI-generated voice reads my script."
+        },
+        {
+          "seg": "Closing",
+          "title": "Closing (about 22 s)",
+          "say": "Thanks for watching. Here's my one ask for this week: pick one routine, just one, and try first-then with a \"then\" your child loves. If it doesn't click right away, that's not failure. It's information. Every child is different. Start small, keep your promises, and be patient, with your child and with yourself. Until next time."
+        }
+      ]
+    },
+    {
+      "id": "rbt-01-owner",
+      "series": "Behavior Tech Foundations",
+      "episode": "Episode 1",
+      "title": "How to Become an RBT: your opening and closing",
+      "due": "2026-12-15",
+      "record": "audio",
+      "file": "rbt-01_owner-voice",
+      "status": "to-record",
+      "notes": "Draft for practice: the series plan is waiting for your approval. Record the final take once you approve it. Use the same room and microphone for every episode of this series.",
+      "segments": [
+        {
+          "seg": "Opening",
+          "title": "Opening (about 22 s)",
+          "say": "Hi, I'm Joshua Newsome. I'm a Board Certified Behavior Analyst and the owner of Newsome Behavioral Health. This is episode one of a free series that covers everything on the RBT exam outline, and what each task looks like on a real shift. From here, you'll hear an AI narration voice reading a script I've reviewed. I'll see you at the end."
+        },
+        {
+          "seg": "Closing",
+          "title": "Closing (about 22 s)",
+          "say": "That's the roadmap. Each week, we'll take one piece of the exam outline and show you what it looks like on a real shift, with practice questions you can try. If this helped, subscribe so you don't miss the next one. And tell me in the comments: which step are you on right now? You've got this."
+        }
+      ]
     }
   ]
 }
