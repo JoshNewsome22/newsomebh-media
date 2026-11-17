@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-16",
+  "updated": "2026-11-17",
   "inboxName": "NBH Recordings – Inbox",
   "inbox": "https://drive.google.com/drive/folders/1lCaMvB0NZK0xd0Qan9s-iCOTdv9FmP0_",
   "scripts": [
@@ -65,6 +65,75 @@
           "seg": "Closing",
           "title": "Closing (about 22 s)",
           "say": "That's the roadmap. Each week, we'll take one piece of the exam outline and show you what it looks like on a real shift, with practice questions you can try. If this helped, subscribe so you don't miss the next one. And tell me in the comments: which step are you on right now? You've got this."
+        }
+      ]
+    },
+    {
+      "id": "rbt-02-owner",
+      "series": "Behavior Tech Foundations",
+      "episode": "Episode 2",
+      "title": "What an RBT Does: your opening and closing",
+      "due": "2026-11-24",
+      "record": "audio",
+      "file": "rbt-02_owner-voice",
+      "status": "to-record",
+      "notes": "Approved. Same room and microphone as your other RBT episodes. Record each line 2-3 times, with a few seconds of silence before and after. Say only these words.",
+      "segments": [
+        {
+          "seg": "Opening",
+          "title": "Opening (about 19 s)",
+          "say": "A parent stops you at pickup: \"Can we stop the token board? He seems bored with it.\" What do you say? I'm Joshua Newsome, a Board Certified Behavior Analyst. This video gives you the answer, and the rules behind it. From here, an AI-generated voice reads my script."
+        },
+        {
+          "seg": "Closing",
+          "title": "Closing (about 26 s)",
+          "say": "Thanks for watching. Here's one thing to do this week: ask your supervisor how you'll meet your supervision each month, and where your records are kept. Good supervisors welcome that question. And if the job feels heavy some days, say so early. Asking for support is part of being a professional. This job matters, and you don't have to figure it out alone. Until next time."
+        }
+      ]
+    },
+    {
+      "id": "rbt-03-owner",
+      "series": "Behavior Tech Foundations",
+      "episode": "Episode 3",
+      "title": "ABA Basics: your opening and closing",
+      "due": "2026-12-01",
+      "record": "audio",
+      "file": "rbt-03_owner-voice",
+      "status": "to-record",
+      "notes": "Approved. Same room and microphone as your other RBT episodes. Record each line 2-3 times, with a few seconds of silence before and after. Say only these words.",
+      "segments": [
+        {
+          "seg": "Opening",
+          "title": "Opening (about 17 s)",
+          "say": "Hi, I'm Joshua Newsome, a Board Certified Behavior Analyst and owner of Newsome Behavioral Health. This is episode three of Behavior Tech Foundations: the core vocabulary every other episode, and the exam, builds on. From here, an AI-generated voice reads my script."
+        },
+        {
+          "seg": "Closing",
+          "title": "Closing (about 22 s)",
+          "say": "That's the foundation. Every procedure in this series, from prompting to differential reinforcement, is built from these pieces, so make them automatic. Here's my one ask: try the three practice questions again tomorrow, without looking. If this helped, subscribe, and tell me in the comments which term still feels fuzzy. Keep going. Until next time."
+        }
+      ]
+    },
+    {
+      "id": "rbt-04-owner",
+      "series": "Behavior Tech Foundations",
+      "episode": "Episode 4",
+      "title": "Operational Definitions: your opening and closing",
+      "due": "2026-12-08",
+      "record": "audio",
+      "file": "rbt-04_owner-voice",
+      "status": "to-record",
+      "notes": "Approved. Same room and microphone as your other RBT episodes. Record each line 2-3 times, with a few seconds of silence before and after. Say only these words.",
+      "segments": [
+        {
+          "seg": "Opening",
+          "title": "Opening (about 18 s)",
+          "say": "I'm Joshua Newsome, a Board Certified Behavior Analyst and the owner of Newsome Behavioral Health. Every number on a data sheet starts with a definition. Get the definition right, and your data can mean something. From here, an AI-generated voice reads my script."
+        },
+        {
+          "seg": "Closing",
+          "title": "Closing (about 23 s)",
+          "say": "That's operational definitions. Here's a challenge for this week: pick one everyday behavior, your own or your dog's, and write a definition a stranger could use. Then count it with a friend and see if you match. It's the same skill you'll use on every shift. Thanks for studying with us. Until next time."
         }
       ]
     }
